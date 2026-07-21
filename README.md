@@ -42,8 +42,7 @@ Sistema embarcado para aquisição e monitoramento de temperatura em tempo real 
 | **Buzzer** | `D10` | Saída PWM / Digital |
 
   
-
-
+![Esquema do Circuito](Circuito.jpeg)
 ---
 
 ## 📐 Modelagem Matemática (ADC para Celsius)
