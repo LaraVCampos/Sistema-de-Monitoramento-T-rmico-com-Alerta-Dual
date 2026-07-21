@@ -41,8 +41,8 @@ Sistema embarcado para aquisição e monitoramento de temperatura em tempo real 
 | **LED Azul** | `D13` | Saída Digital |
 | **Buzzer** | `D10` | Saída PWM / Digital |
 
-*(Adicione aqui a imagem do circuito montado no Fritzing/Tinkercad ou a foto na bancada)*  
-`![Esquema do Circuito](./circuito.png)`
+  
+
 
 ---
 
