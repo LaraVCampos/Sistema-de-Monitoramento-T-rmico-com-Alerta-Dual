@@ -55,6 +55,14 @@ $$V_{\text{mV}} = \left( \frac{\text{leituraAdc}}{1023} \right) \times 5000$$
 
 $$T (^{\circ}\text{C}) = \frac{V_{\text{mV}}}{10}$$
 
+
+### Para o componente real (LM35):
+$$V_{\text{mV}} = \left( \frac{\text{leituraAdc}}{1023} \right) \times 5000$$
+
+$$T (^{\circ}\text{C}) = \frac{V_{\text{mV}}}{10}$$
+
+> ⚠️ **Nota sobre a simulação no Tinkercad:**  
+> Devido à ausência do modelo LM35 na biblioteca padrão do Tinkercad, a simulação virtual foi executada utilizando o sensor **TMP36**. Para fins de testes no ambiente virtual, a fórmula aplica o offset de $500\,\text{mV}$ referente ao TMP36 ($T = \frac{V_{\text{mV}} - 500}{10}$).
 ---
 
 ## 🚀 Como Executar o Projeto
