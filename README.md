@@ -31,7 +31,7 @@ Sistema embarcado para aquisição e monitoramento de temperatura em tempo real 
 
 ---
 
-![Simulação](PowerfulWluff-Blad.png)
+![Simulação](Powerful-Wluff-Blad.png)
 
 ## 🔌 Mapeamento de Pinos e Circuito
 
