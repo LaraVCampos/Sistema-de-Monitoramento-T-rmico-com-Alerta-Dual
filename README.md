@@ -31,6 +31,8 @@ Sistema embarcado para aquisição e monitoramento de temperatura em tempo real 
 
 ---
 
+![Esquema do Circuito](PowerfulWluff-Blad.png)
+
 ## 🔌 Mapeamento de Pinos e Circuito
 
 | Componente | Pino do Arduino | Função |
